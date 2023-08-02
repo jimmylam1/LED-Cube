@@ -2,7 +2,7 @@
 
 ![cube image](./assets/cube.png)
 
-For my final project in Digital Electronics, I decided to build an LED Cube from scratch as well as the driver circuit. What's different with this project, compared to all LED cube tutorials found online, is my driver circuit does not use a microprocessor like an Arduino. Instead, all the animation frames are stored on a 2KB EEPROM, and the driver circuit uses the stored data to display each frame.
+For my final project in Digital Electronics, I decided to build an LED Cube from scratch as well as the driver circuit. What's different with this project, compared to all LED cube tutorials found online, is my driver circuit does not use a microprocessor or a microcontroller like an Arduino. Instead, all the animation frames are stored on a 2KB EEPROM, and the driver circuit uses the stored data to display each frame.
 
 This repository contains the code I used to generate all the display frames, as well as a simulator to aid in designing and debugging.
 
